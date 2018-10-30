@@ -1,5 +1,7 @@
 # dbclone
 
+[![Join the chat at https://gitter.im/dbclone/Lobby](https://badges.gitter.im/dbclone/Lobby.svg)](https://gitter.im/dbclone/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM Version][npm-img]][npm-url]
 [![NPM Downloads][npm-dl-img]][npm-stat-url]
 [![MIT License][license-img]][license-link]
